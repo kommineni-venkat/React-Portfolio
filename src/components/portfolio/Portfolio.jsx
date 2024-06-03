@@ -36,7 +36,7 @@ const Portfolio = () => {
       description: "A booking website for doctor's appointments at the hospital. The website is mainly functionally developed with JavaScript",
       technologies: "HTML | CSS | JavaScript",
       
-      github: "",
+      github: "https://github.com/kommineni-venkat/Healthcare-Booking-System",
     },
     {
       id: 4,
@@ -53,7 +53,7 @@ const Portfolio = () => {
       technologies: "Html | CSS | Javascript",
       
       
-      github: "",
+      github: "https://github.com/kommineni-venkat/TO-DO-LIST",
     },
     
   ];
